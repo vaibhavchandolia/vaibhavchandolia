@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **vaibhavchandolia52@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10b7bIq36ltTckxerLyVkYk3OKz8Ghict/view?usp=sharing](https://drive.google.com/file/d/10b7bIq36ltTckxerLyVkYk3OKz8Ghict/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/10b7bIq36ltTckxerLyVkYk3OKz8Ghict/view?usp=sharing](https://drive.google.com/file/d/1xAff0lkOQUZGNQsMPj4LP5PBnWrGZHRp/view?usp=sharing)
 
 - ⚡ Fun fact **The longest chess game theoretically possible is 5949 moves.**
 
