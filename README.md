@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavchandolia&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavchandolia" /> </p>
 
 
-- 🔭 I’m currently working on **Typing speedtest React App**
+- 🔭 I’m currently working on **WhatsApp Clone**
 
 - 🌱 I’m currently learning **NodeJS**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **vaibhavchandolia52@gmail.com**
 
-- 📄 Know about my experiences [myResume](https://drive.google.com/file/d/1xAff0lkOQUZGNQsMPj4LP5PBnWrGZHRp/view?usp=sharing)
+- 📄 Know about my experiences [myResume](https://drive.google.com/file/d/1uzQu7Ua-w5MeQiGTj8_V20lxC4c30Vsz/view?usp=sharing)
 
 - ⚡ Fun fact **The longest chess game theoretically possible is 5949 moves.**
 
